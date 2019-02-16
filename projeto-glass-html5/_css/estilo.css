@@ -119,7 +119,7 @@ nav#menu li:hover {
 }
 
 nav#menu h1 {
-	display: none;;
+	display: none;
 }
 
 nav#menu a{
@@ -247,4 +247,7 @@ footer#rodape p{
 	text-align: center;
 }
 
-teste teste teste no git
+video#video-02 {
+	width: 370px;
+	height: auto;
+}
